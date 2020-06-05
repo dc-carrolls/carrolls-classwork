@@ -1,0 +1,1 @@
+print('Rising Sun')
